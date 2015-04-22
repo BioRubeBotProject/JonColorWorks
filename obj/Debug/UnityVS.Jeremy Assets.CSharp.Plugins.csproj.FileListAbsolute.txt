@@ -1,0 +1,43 @@
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\UnityVS.Jeremy Assets.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.JsonFx.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\UnityVS.Jeremy Assets.CSharp.Plugins.csprojResolveAssemblyReference.cache
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.JsonFx.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\obj\Debug\UnityVS.Jeremy Assets.CSharp.Plugins.csprojResolveAssemblyReference.cache
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Media\Documents\school\Spring 2015\BioRubeBot Project\Unity-Projects-jon-master\Jeremy Project\Jeremy Assets\obj\Debug\Assembly-CSharp-firstpass.pdb
